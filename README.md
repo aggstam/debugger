@@ -1,5 +1,5 @@
 # debugger
-You learned that the proper way to debug a program is by printing lines, but found that is a bit tedious process?<br>
+You learned that the proper way to debug a program is by printing lines, but found that it is a bit tedious process?<br>
 No worry anon, get ready to turn your spaghetti debugging code to a readable and easy to use format!
 
 Go from this:
