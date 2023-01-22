@@ -48,3 +48,13 @@ Value:  42
 ```
 As you can see, the debugger is meticulously designed to support all the common line printing tactics.<br>
 Have fun debuggin gloriously!
+
+# Usage
+After linking the library, import it to your code using:
+```
+from debugger import breakpoint as b
+```
+You can try the example by executing the provided unit test:
+```
+% python -m unittest
+```
