@@ -49,7 +49,7 @@ Value:  42
 As you can see, the debugger is meticulously designed to support all the common line printing tactics.<br>
 Have fun debuggin gloriously!
 
-# Usage
+## Usage
 After linking the library, import it to your code using:
 ```
 from debugger import breakpoint as b
