@@ -15,12 +15,12 @@ to a more glorious/professional looking:
 from debugger import breakpoint as b
  
 # Normal breakpoint:  
-b()    
+b()
 # Verbose breakpoint:
-b(None, True)                         
+b(None, True)
 # Passing object to print value:
 x = 42
-b(x)      
+b(x)
 # Verbose breakpoint with object value: 
 b(x, True)
 ```
